@@ -1,0 +1,90 @@
+<p><!--
+QBlastInfoBegin
+	Status=READY
+QBlastInfoEnd
+--><p>
+<PRE>
+BLASTP 2.12.0+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro
+A. Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and
+David J. Lipman (1997), "Gapped BLAST and PSI-BLAST: a new
+generation of protein database search programs", Nucleic
+Acids Res. 25:3389-3402.
+
+
+Reference for compositional score matrix adjustment: Stephen
+F. Altschul, John C. Wootton, E. Michael Gertz, Richa
+Agarwala, Aleksandr Morgulis, Alejandro A. Schaffer, and
+Yi-Kuo Yu (2005) "Protein database searches using
+compositionally adjusted substitution matrices", FEBS J.
+272:5101-5109.
+
+
+RID: MAJKNU3T013
+
+
+Database: PDB protein database
+           131,673 sequences; 35,089,827 total letters
+Query= 
+Length=10
+
+
+                                                                   Score     E     Max
+Sequences producing significant alignments:                       (Bits)  Value  Ident
+
+1B07_C Crk Sh3 Domain Complexed With Peptoid Inhibitor [synthe...  21.9    3.3    100%      
+
+ALIGNMENTS
+>1B07_C Crk Sh3 Domain Complexed With Peptoid Inhibitor [synthetic construct]
+Length=12
+
+ Score = 21.9 bits (45),  Expect = 3.3, Method: Compositional matrix adjust.
+ Identities = 10/10 (100%), Positives = 10/10 (100%), Gaps = 0/10 (0%)
+
+Query  1   EVPGPVPPRR  10
+           EVPGPVPPRR
+Sbjct  2   EVPGPVPPRR  11
+
+
+  Database: PDB protein database
+    Posted date:  Sep 15, 2021  4:59 AM
+  Number of letters in database: 35,089,827
+  Number of sequences in database:  131,673
+
+Lambda      K        H
+   0.315    0.151    0.514 
+Gapped
+Lambda      K        H
+   0.267   0.0410    0.140 
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Number of Sequences: 131673
+Number of Hits to DB: 474774
+Number of extensions: 2640
+Number of successful extensions: 327
+Number of sequences better than 100: 102
+Number of HSP's better than 100 without gapping: 0
+Number of HSP's gapped: 327
+Number of HSP's successfully gapped: 105
+Length of query: 10
+Length of database: 35089827
+Length adjustment: 0
+Effective length of query: 10
+Effective length of database: 35089827
+Effective search space: 350898270
+Effective search space used: 350898270
+T: 11
+A: 40
+X1: 16 (7.3 bits)
+X2: 38 (14.6 bits)
+X3: 64 (24.7 bits)
+S1: 29 (15.8 bits)
+S2: 45 (21.9 bits)
+ka-blk-alpha gapped: 1.9
+ka-blk-alpha ungapped: 0.7916
+ka-blk-alpha_v gapped: 42.6028
+ka-blk-alpha_v ungapped: 4.96466
+ka-blk-sigma gapped: 43.6362
+
+
+

@@ -1,0 +1,927 @@
+<p><!--
+QBlastInfoBegin
+	Status=READY
+QBlastInfoEnd
+--><p>
+<PRE>
+BLASTP 2.12.0+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro
+A. Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and
+David J. Lipman (1997), "Gapped BLAST and PSI-BLAST: a new
+generation of protein database search programs", Nucleic
+Acids Res. 25:3389-3402.
+
+
+Reference for compositional score matrix adjustment: Stephen
+F. Altschul, John C. Wootton, E. Michael Gertz, Richa
+Agarwala, Aleksandr Morgulis, Alejandro A. Schaffer, and
+Yi-Kuo Yu (2005) "Protein database searches using
+compositionally adjusted substitution matrices", FEBS J.
+272:5101-5109.
+
+
+RID: MA2GYDGB016
+
+
+Database: PDB protein database
+           131,673 sequences; 35,089,827 total letters
+Query= 
+Length=24
+
+
+                                                                   Score     E     Max
+Sequences producing significant alignments:                       (Bits)  Value  Ident
+
+1O41_A Crystal Structure Of Sh2 In Complex With Ru78300 [Homo ...  52.0    6e-11  100%        
+1O4C_A Crystal Structure Of Sh2 In Complex With Phosphate [Hom...  52.0    6e-11  100%        
+1A1A_A C-SRC (SH2 DOMAIN WITH C188A MUTATION) COMPLEXED WITH A...  52.0    6e-11  100%        
+4F59_A Triple mutant Src SH2 domain [Homo sapiens]                 52.0    6e-11  100%        
+1A07_A C-SRC (SH2 DOMAIN) COMPLEXED WITH ACE-MALONYL TYR-GLU-(...  52.0    6e-11  100%        
+2H8H_A Src kinase in complex with a quinazoline inhibitor [Hom...  52.0    4e-10  100%        
+6F3F_A Autoinhibited Src kinase bound to ADP [Mus musculus]        51.6    6e-10  100%        
+1KSW_A Structure of Human c-Src Tyrosine Kinase (Thr338Gly Mut...  51.6    6e-10  100%        
+1FMK_A Crystal Structure Of Human Tyrosine-Protein Kinase C-Sr...  51.6    6e-10  100%        
+1Y57_A Structure of unphosphorylated c-Src in complex with an ...  51.6    6e-10  100%        
+4K11_A The structure of 1NA in complex with Src T338G [Homo sa...  51.6    6e-10  100%        
+1IS0_A Crystal Structure of a Complex of the Src SH2 Domain wi...  48.5    1e-09  96%         
+1SHA_A Crystal Structure Of The Phosphotyrosine Recognition Do...  48.5    1e-09  96%         
+2PTK_A CHICKEN SRC TYROSINE KINASE [Gallus gallus]                 50.1    2e-09  96%         
+1KC2_A structure of the triple (Lys(beta)D3Ala, Asp(beta)C8Ala...  46.2    9e-09  95%         
+1NZL_A Crystal Structure of Src SH2 domain bound to doubly pho...  46.2    1e-08  95%         
+1P13_A Crystal Structure of the Src SH2 Domain Complexed with ...  46.2    1e-08  95%         
+1SKJ_A COCRYSTAL STRUCTURE OF UREA-SUBSTITUTED PHOSPHOPEPTIDE ...  46.6    1e-08  95%         
+1F1W_A Src Sh2 Thref1trp Mutant Complexed With The Phosphopept...  46.2    1e-08  95%         
+1BKL_A SELF-ASSOCIATED APO SRC SH2 DOMAIN [Rous sarcoma virus]     44.3    7e-08  91%         
+1BKM_A COCRYSTAL STRUCTURE OF D-AMINO ACID SUBSTITUTED PHOSPHO...  43.9    9e-08  91%         
+5MTJ_A Yes1-SH2 in complex with monobody Mb(Yes_1) [Mus musculus]  41.6    1e-06  77%         
+1AOT_F NMR STRUCTURE OF THE FYN SH2 DOMAIN COMPLEXED WITH A PH...  37.0    4e-05  68%         
+1G83_A Crystal Structure Of Fyn Sh3-Sh2 [Homo sapiens]             37.0    8e-05  68%         
+3UF4_A Crystal structure of a SH3 and SH2 domains of FYN prote...  37.0    8e-05  68%         
+2YT6_A Solution structure of the SH3_1 domain of Yamaguchi sar...  32.0    0.003  71%         
+4TZI_A Structure of unliganded Lyn SH2 domain [Mus musculus]       31.2    0.009  52%         
+2DLY_A Solution structure of the SH2 domain of murine Fyn-rela...  30.4    0.018  50%         
+4U1P_A Human Fyn-SH2 domain in complex with a synthetic high-a...  30.0    0.021  61%         
+2MRJ_A Structure of Fyn protein SH2 bound [Homo sapiens]           30.0    0.023  61%         
+4U17_A Swapped dimer of the human Fyn-SH2 domain [Homo sapiens]    29.6    0.029  61%         
+2MQI_A human Fyn SH2 free state [Homo sapiens]                     29.3    0.036  61%         
+3HCK_A NMR ensemble of the uncomplexed human HCK SH2 domain, 2...  29.3    0.039  48%         
+1MIL_A Transforming Protein [Homo sapiens]                         28.5    0.081  50%         
+2RSY_A Solution structure of the SH2 domain of Csk in complex ...  28.1    0.10   58%         
+3EAC_A Crystal structure of SH2 domain of Human Csk (carboxyl-...  28.1    0.11   58%         
+1AD5_A SRC FAMILY KINASE HCK-AMP-PNP COMPLEX [Homo sapiens]        28.1    0.12   48%         
+3EAZ_A Crystal structure of SH2 domain of Human Csk (carboxyl-...  27.7    0.12   58%         
+1TCE_A SOLUTION NMR STRUCTURE OF THE SHC SH2 DOMAIN COMPLEXED ...  27.7    0.14   50%         
+1K9A_A Crystal structure analysis of full-length carboxyl-term...  28.1    0.14   58%         
+2MRK_A Fyn SH2 domain in complex with the natural inhibitory p...  27.7    0.14   59%         
+4U5W_B Crystal Structure of HIV-1 Nef-SF2 Core Domain in Compl...  27.7    0.15   48%         
+1BLJ_A NMR ENSEMBLE OF BLK SH2 DOMAIN, 20 STRUCTURES [Mus musc...  27.7    0.17   43%         
+1QCF_A Crystal Structure Of Hck In Complex With A Src Family-s...  27.7    0.18   48%         
+3NHN_A Crystal structure of the SRC-family kinase HCK SH3-SH2-...  27.3    0.24   48%         
+1LCJ_A Sh2 (Src Homology-2) Domain Of Human P56-Lck Tyrosine K...  26.2    0.64   38%         
+1BHF_A P56lck Sh2 Domain Inhibitor Complex [Homo sapiens]          25.8    0.68   38%         
+1LKK_A HUMAN P56-LCK TYROSINE KINASE SH2 DOMAIN IN COMPLEX WIT...  25.8    0.68   38%         
+5MTM_A Monobody Mb(Lck_3) bound to Lck-SH2 domain [Homo sapiens]   25.8    0.71   38%         
+1NRV_A Crystal structure of the SH2 domain of Grb10 [Homo sapi...  25.8    0.73   37%         
+
+ALIGNMENTS
+>1O41_A Crystal Structure Of Sh2 In Complex With Ru78300. [Homo sapiens]
+ 1O42_A Crystal Structure Of Sh2 In Complex With Ru81843. [Homo sapiens]
+ 1O43_A Crystal Structure Of Sh2 In Complex With Ru82129. [Homo sapiens]
+ 1O44_A Crystal structure of sh2 in complex with ru85052 [Homo sapiens]
+ 1O45_A Crystal Structure Of Sh2 In Complex With Ru84687. [Homo sapiens]
+ 1O46_A Crystal Structure Of Sh2 In Complex With Ru90395. [Homo sapiens]
+ 1O47_A Crystal Structure Of Sh2 In Complex With Ru82209. [Homo sapiens]
+ 1O48_A Crystal Structure Of Sh2 In Complex With Ru85053. [Homo sapiens]
+ 1O49_A Crystal Structure Of Sh2 In Complex With Ru85493. [Homo sapiens]
+ 1O4A_A Crystal Structure Of Sh2 In Complex With Ru82197. [Homo sapiens]
+ 1O4B_A Crystal Structure Of Sh2 In Complex With Ru83876. [Homo sapiens]
+ 1O4D_A Crystal Structure Of Sh2 In Complex With Ru78262. [Homo sapiens]
+ 1O4E_A Crystal Structure Of Sh2 In Complex With Ru78299. [Homo sapiens]
+ 1O4H_A Crystal Structure Of Sh2 In Complex With Ru79072. [Homo sapiens]
+ 1O4I_A Crystal Structure Of Sh2 In Complex With Pas219. [Homo sapiens]
+ 1O4J_A Crystal Structure Of Sh2 In Complex With Iso24. [Homo sapiens]
+ 1O4K_A Crystal Structure Of Sh2 In Complex With Pasbn. [Homo sapiens]
+ 1O4L_A Crystal Structure Of Sh2 In Complex With Fragment2. [Homo sapiens]
+ 1O4M_A Crystal Structure Of Sh2 In Complex With Malonicacid. [Homo sapiens]
+ 1O4N_A Crystal Structure Of Sh2 In Complex With Oxalic Acid. [Homo sapiens]
+ 1O4O_A Crystal Structure Of Sh2 In Complex With Phenylphosphate. [Homo 
+sapiens]
+ 1O4P_A Crystal Structure Of Sh2 In Complex With Ru78791. [Homo sapiens]
+ 1O4Q_A Crystal Structure Of Sh2 In Complex With Ru79256. [Homo sapiens]
+ 1O4R_A Crystal Structure Of Sh2 In Complex With Ru78783. [Homo sapiens]
+Length=108
+
+ Score = 52.0 bits (123),  Expect = 6e-11, Method: Compositional matrix adjust.
+ Identities = 24/24 (100%), Positives = 24/24 (100%), Gaps = 0/24 (0%)
+
+Query  1   IQAEEWYFGKITRRESERLLLNAE  24
+           IQAEEWYFGKITRRESERLLLNAE
+Sbjct  2   IQAEEWYFGKITRRESERLLLNAE  25
+
+
+>1O4C_A Crystal Structure Of Sh2 In Complex With Phosphate. [Homo sapiens]
+ 1O4F_A Crystal Structure Of Sh2 In Complex With Ru79073. [Homo sapiens]
+ 1O4G_A Crystal Structure Of Sh2 In Complex With Dpi59. [Homo sapiens]
+Length=108
+
+ Score = 52.0 bits (123),  Expect = 6e-11, Method: Compositional matrix adjust.
+ Identities = 24/24 (100%), Positives = 24/24 (100%), Gaps = 0/24 (0%)
+
+Query  1   IQAEEWYFGKITRRESERLLLNAE  24
+           IQAEEWYFGKITRRESERLLLNAE
+Sbjct  2   IQAEEWYFGKITRRESERLLLNAE  25
+
+
+>1A1A_A C-SRC (SH2 DOMAIN WITH C188A MUTATION) COMPLEXED WITH ACE-FORMYL 
+PHOSPHOTYR-GLU-(N,N-DIPENTYL AMINE) [Homo sapiens]
+ 1A1A_B C-SRC (SH2 DOMAIN WITH C188A MUTATION) COMPLEXED WITH ACE-FORMYL 
+PHOSPHOTYR-GLU-(N,N-DIPENTYL AMINE) [Homo sapiens]
+Length=107
+
+ Score = 52.0 bits (123),  Expect = 6e-11, Method: Compositional matrix adjust.
+ Identities = 24/24 (100%), Positives = 24/24 (100%), Gaps = 0/24 (0%)
+
+Query  1   IQAEEWYFGKITRRESERLLLNAE  24
+           IQAEEWYFGKITRRESERLLLNAE
+Sbjct  4   IQAEEWYFGKITRRESERLLLNAE  27
+
+
+>4F59_A Triple mutant Src SH2 domain [Homo sapiens]
+ 4F5A_A Triple mutant Src SH2 domain bound to phosphate ion [Homo sapiens]
+ 4F5B_A Triple mutant Src SH2 domain bound to phosphotyrosine [Homo sapiens]
+Length=112
+
+ Score = 52.0 bits (123),  Expect = 6e-11, Method: Compositional matrix adjust.
+ Identities = 24/24 (100%), Positives = 24/24 (100%), Gaps = 0/24 (0%)
+
+Query  1   IQAEEWYFGKITRRESERLLLNAE  24
+           IQAEEWYFGKITRRESERLLLNAE
+Sbjct  6   IQAEEWYFGKITRRESERLLLNAE  29
+
+
+>1A07_A C-SRC (SH2 DOMAIN) COMPLEXED WITH ACE-MALONYL TYR-GLU-(N,N-DIPENTYL 
+AMINE) [Homo sapiens]
+ 1A07_B C-SRC (SH2 DOMAIN) COMPLEXED WITH ACE-MALONYL TYR-GLU-(N,N-DIPENTYL 
+AMINE) [Homo sapiens]
+ 1A08_A C-SRC (SH2 DOMAIN) COMPLEXED WITH ACE-DIFLUORO PHOSPHOTYR-GLU-(N,N-DIPENTYL 
+AMINE) [Homo sapiens]
+ 1A08_B C-SRC (SH2 DOMAIN) COMPLEXED WITH ACE-DIFLUORO PHOSPHOTYR-GLU-(N,N-DIPENTYL 
+AMINE) [Homo sapiens]
+ 1A09_A C-src (SH2 domain) complexed with ace-formyl phosphotyr-glu-(n,n-dipentyl 
+amine) [Homo sapiens]
+ 1A09_B C-src (SH2 domain) complexed with ace-formyl phosphotyr-glu-(n,n-dipentyl 
+amine) [Homo sapiens]
+ 1A1B_A C-SRC (SH2 DOMAIN) COMPLEXED WITH ACE-PHOSPHOTYR-GLU-(N,N-DIPENTYL 
+AMINE) [Homo sapiens]
+ 1A1B_B C-SRC (SH2 DOMAIN) COMPLEXED WITH ACE-PHOSPHOTYR-GLU-(N,N-DIPENTYL 
+AMINE) [Homo sapiens]
+ 1A1C_A C-SRC (SH2 DOMAIN) COMPLEXED WITH ACE-PHOSPHOTYR-GLU-(N-ME(-(CH2)3-CYCLOPENTYL)) 
+[Homo sapiens]
+ 1A1C_B C-SRC (SH2 DOMAIN) COMPLEXED WITH ACE-PHOSPHOTYR-GLU-(N-ME(-(CH2)3-CYCLOPENTYL)) 
+[Homo sapiens]
+ 1A1E_A C-SRC (SH2 DOMAIN) COMPLEXED WITH ACE-PHOSPHOTYR-GLU-(3-BUTYLPIPERIDINE) 
+[Homo sapiens]
+ 1A1E_B C-SRC (SH2 DOMAIN) COMPLEXED WITH ACE-PHOSPHOTYR-GLU-(3-BUTYLPIPERIDINE) 
+[Homo sapiens]
+ 1HCS_B NMR STRUCTURE OF THE HUMAN SRC SH2 DOMAIN COMPLEX [Homo sapiens]
+ 1HCT_B NMR STRUCTURE OF THE HUMAN SRC SH2 DOMAIN COMPLEX [Homo sapiens]
+ 1SHD_A PEPTIDE INHIBITORS OF SRC SH3-SH2-PHOSPHOPROTEIN INTERACTIONS 
+[Homo sapiens]
+Length=107
+
+ Score = 52.0 bits (123),  Expect = 6e-11, Method: Compositional matrix adjust.
+ Identities = 24/24 (100%), Positives = 24/24 (100%), Gaps = 0/24 (0%)
+
+Query  1   IQAEEWYFGKITRRESERLLLNAE  24
+           IQAEEWYFGKITRRESERLLLNAE
+Sbjct  4   IQAEEWYFGKITRRESERLLLNAE  27
+
+
+>2H8H_A Src kinase in complex with a quinazoline inhibitor [Homo sapiens]
+Length=535
+
+ Score = 52.0 bits (123),  Expect = 4e-10, Method: Composition-based stats.
+ Identities = 24/24 (100%), Positives = 24/24 (100%), Gaps = 0/24 (0%)
+
+Query  1    IQAEEWYFGKITRRESERLLLNAE  24
+            IQAEEWYFGKITRRESERLLLNAE
+Sbjct  145  IQAEEWYFGKITRRESERLLLNAE  168
+
+
+>6F3F_A Autoinhibited Src kinase bound to ADP [Mus musculus]
+Length=455
+
+ Score = 51.6 bits (122),  Expect = 6e-10, Method: Compositional matrix adjust.
+ Identities = 24/24 (100%), Positives = 24/24 (100%), Gaps = 0/24 (0%)
+
+Query  1   IQAEEWYFGKITRRESERLLLNAE  24
+           IQAEEWYFGKITRRESERLLLNAE
+Sbjct  65  IQAEEWYFGKITRRESERLLLNAE  88
+
+
+>1KSW_A Structure of Human c-Src Tyrosine Kinase (Thr338Gly Mutant) in 
+Complex with N6-benzyl ADP [Homo sapiens]
+Length=452
+
+ Score = 51.6 bits (122),  Expect = 6e-10, Method: Compositional matrix adjust.
+ Identities = 24/24 (100%), Positives = 24/24 (100%), Gaps = 0/24 (0%)
+
+Query  1   IQAEEWYFGKITRRESERLLLNAE  24
+           IQAEEWYFGKITRRESERLLLNAE
+Sbjct  62  IQAEEWYFGKITRRESERLLLNAE  85
+
+
+>1FMK_A Crystal Structure Of Human Tyrosine-Protein Kinase C-Src [Homo 
+sapiens]
+ 2SRC_A Crystal Structure Of Human Tyrosine-protein Kinase C-src, In 
+Complex With Amp-pnp [Homo sapiens]
+Length=452
+
+ Score = 51.6 bits (122),  Expect = 6e-10, Method: Compositional matrix adjust.
+ Identities = 24/24 (100%), Positives = 24/24 (100%), Gaps = 0/24 (0%)
+
+Query  1   IQAEEWYFGKITRRESERLLLNAE  24
+           IQAEEWYFGKITRRESERLLLNAE
+Sbjct  62  IQAEEWYFGKITRRESERLLLNAE  85
+
+
+>1Y57_A Structure of unphosphorylated c-Src in complex with an inhibitor 
+[Homo sapiens]
+Length=452
+
+ Score = 51.6 bits (122),  Expect = 6e-10, Method: Compositional matrix adjust.
+ Identities = 24/24 (100%), Positives = 24/24 (100%), Gaps = 0/24 (0%)
+
+Query  1   IQAEEWYFGKITRRESERLLLNAE  24
+           IQAEEWYFGKITRRESERLLLNAE
+Sbjct  62  IQAEEWYFGKITRRESERLLLNAE  85
+
+
+>4K11_A The structure of 1NA in complex with Src T338G [Homo sapiens]
+Length=448
+
+ Score = 51.6 bits (122),  Expect = 6e-10, Method: Compositional matrix adjust.
+ Identities = 24/24 (100%), Positives = 24/24 (100%), Gaps = 0/24 (0%)
+
+Query  1   IQAEEWYFGKITRRESERLLLNAE  24
+           IQAEEWYFGKITRRESERLLLNAE
+Sbjct  60  IQAEEWYFGKITRRESERLLLNAE  83
+
+
+>1IS0_A Crystal Structure of a Complex of the Src SH2 Domain with Conformationally 
+Constrained Peptide Inhibitor [Rous sarcoma virus]
+ 1IS0_B Crystal Structure of a Complex of the Src SH2 Domain with Conformationally 
+Constrained Peptide Inhibitor [Rous sarcoma virus]
+ 2JYQ_A NMR structure of the apo v-Src SH2 domain [Rous sarcoma virus]
+Length=106
+
+ Score = 48.5 bits (114),  Expect = 1e-09, Method: Compositional matrix adjust.
+ Identities = 22/23 (96%), Positives = 22/23 (96%), Gaps = 0/23 (0%)
+
+Query  2   QAEEWYFGKITRRESERLLLNAE  24
+           QAEEWYFGKITRRESERLLLN E
+Sbjct  1   QAEEWYFGKITRRESERLLLNPE  23
+
+
+>1SHA_A Crystal Structure Of The Phosphotyrosine Recognition Domain Sh2 
+Of V-Src Complexed With Tyrosine-Phosphorylated Peptides 
+[Rous sarcoma virus]
+ 1SHB_A CRYSTAL STRUCTURE OF THE PHOSPHOTYROSINE RECOGNITION DOMAIN SH2 
+OF V-SRC COMPLEXED WITH TYROSINE-PHOSPHORYLATED PEPTIDES 
+[Rous sarcoma virus]
+ 1SPR_A BINDING OF A HIGH AFFINITY PHOSPHOTYROSYL PEPTIDE TO THE SRC 
+SH2 DOMAIN: CRYSTAL STRUCTURES OF THE COMPLEXED AND PEPTIDE-FREE 
+FORMS [Rous sarcoma virus]
+ 1SPR_B BINDING OF A HIGH AFFINITY PHOSPHOTYROSYL PEPTIDE TO THE SRC 
+SH2 DOMAIN: CRYSTAL STRUCTURES OF THE COMPLEXED AND PEPTIDE-FREE 
+FORMS [Rous sarcoma virus]
+ 1SPR_C BINDING OF A HIGH AFFINITY PHOSPHOTYROSYL PEPTIDE TO THE SRC 
+SH2 DOMAIN: CRYSTAL STRUCTURES OF THE COMPLEXED AND PEPTIDE-FREE 
+FORMS [Rous sarcoma virus]
+ 1SPR_D BINDING OF A HIGH AFFINITY PHOSPHOTYROSYL PEPTIDE TO THE SRC 
+SH2 DOMAIN: CRYSTAL STRUCTURES OF THE COMPLEXED AND PEPTIDE-FREE 
+FORMS [Rous sarcoma virus]
+ 1SPS_A BINDING OF A HIGH AFFINITY PHOSPHOTYROSYL PEPTIDE TO THE SRC 
+SH2 DOMAIN: CRYSTAL STRUCTURES OF THE COMPLEXED AND PEPTIDE-FREE 
+FORMS [Rous sarcoma virus]
+ 1SPS_B BINDING OF A HIGH AFFINITY PHOSPHOTYROSYL PEPTIDE TO THE SRC 
+SH2 DOMAIN: CRYSTAL STRUCTURES OF THE COMPLEXED AND PEPTIDE-FREE 
+FORMS [Rous sarcoma virus]
+ 1SPS_C BINDING OF A HIGH AFFINITY PHOSPHOTYROSYL PEPTIDE TO THE SRC 
+SH2 DOMAIN: CRYSTAL STRUCTURES OF THE COMPLEXED AND PEPTIDE-FREE 
+FORMS [Rous sarcoma virus]
+Length=104
+
+ Score = 48.5 bits (114),  Expect = 1e-09, Method: Compositional matrix adjust.
+ Identities = 22/23 (96%), Positives = 22/23 (96%), Gaps = 0/23 (0%)
+
+Query  2   QAEEWYFGKITRRESERLLLNAE  24
+           QAEEWYFGKITRRESERLLLN E
+Sbjct  1   QAEEWYFGKITRRESERLLLNPE  23
+
+
+>2PTK_A CHICKEN SRC TYROSINE KINASE [Gallus gallus]
+Length=453
+
+ Score = 50.1 bits (118),  Expect = 2e-09, Method: Compositional matrix adjust.
+ Identities = 23/24 (96%), Positives = 23/24 (96%), Gaps = 0/24 (0%)
+
+Query  1   IQAEEWYFGKITRRESERLLLNAE  24
+           IQAEEWYFGKITRRESERLLLN E
+Sbjct  63  IQAEEWYFGKITRRESERLLLNPE  86
+
+
+>1KC2_A structure of the triple (Lys(beta)D3Ala, Asp(beta)C8Ala, AspCD2Ala) 
+mutant of the Src SH2 domain bound to the PQpYEEIPI peptide 
+[Rous sarcoma virus]
+Length=103
+
+ Score = 46.2 bits (108),  Expect = 9e-09, Method: Compositional matrix adjust.
+ Identities = 21/22 (95%), Positives = 21/22 (95%), Gaps = 0/22 (0%)
+
+Query  3   AEEWYFGKITRRESERLLLNAE  24
+           AEEWYFGKITRRESERLLLN E
+Sbjct  1   AEEWYFGKITRRESERLLLNPE  22
+
+
+>1NZL_A Crystal Structure of Src SH2 domain bound to doubly phosphorylated 
+peptide PQpYEpYIPI [Rous sarcoma virus (strain Schmidt-Ruppin)]
+ 1NZL_B Crystal Structure of Src SH2 domain bound to doubly phosphorylated 
+peptide PQpYEpYIPI [Rous sarcoma virus (strain Schmidt-Ruppin)]
+ 1NZV_A Crystal Structure of Src SH2 domain bound to doubly phosphorylated 
+peptide PQpYIpYVPA [Rous sarcoma virus (strain Schmidt-Ruppin)]
+ 1NZV_B Crystal Structure of Src SH2 domain bound to doubly phosphorylated 
+peptide PQpYIpYVPA [Rous sarcoma virus (strain Schmidt-Ruppin)]
+Length=103
+
+ Score = 46.2 bits (108),  Expect = 1e-08, Method: Compositional matrix adjust.
+ Identities = 21/22 (95%), Positives = 21/22 (95%), Gaps = 0/22 (0%)
+
+Query  3   AEEWYFGKITRRESERLLLNAE  24
+           AEEWYFGKITRRESERLLLN E
+Sbjct  1   AEEWYFGKITRRESERLLLNPE  22
+
+
+>1P13_A Crystal Structure of the Src SH2 Domain Complexed with Peptide 
+(SDpYANFK) [Gallus gallus]
+ 1P13_B Crystal Structure of the Src SH2 Domain Complexed with Peptide 
+(SDpYANFK) [Gallus gallus]
+Length=102
+
+ Score = 46.2 bits (108),  Expect = 1e-08, Method: Compositional matrix adjust.
+ Identities = 21/22 (95%), Positives = 21/22 (95%), Gaps = 0/22 (0%)
+
+Query  3   AEEWYFGKITRRESERLLLNAE  24
+           AEEWYFGKITRRESERLLLN E
+Sbjct  1   AEEWYFGKITRRESERLLLNPE  22
+
+
+>1SKJ_A COCRYSTAL STRUCTURE OF UREA-SUBSTITUTED PHOSPHOPEPTIDE COMPLEX 
+[Rous sarcoma virus]
+Length=113
+
+ Score = 46.6 bits (109),  Expect = 1e-08, Method: Composition-based stats.
+ Identities = 21/22 (95%), Positives = 21/22 (95%), Gaps = 0/22 (0%)
+
+Query  3   AEEWYFGKITRRESERLLLNAE  24
+           AEEWYFGKITRRESERLLLN E
+Sbjct  3   AEEWYFGKITRRESERLLLNPE  24
+
+
+>1F1W_A Src Sh2 Thref1trp Mutant Complexed With The Phosphopeptide S(Ptr)vnvqn 
+[Gallus gallus]
+ 1F2F_A Src Sh2 Thref1trp Mutant [Gallus gallus]
+Length=104
+
+ Score = 46.2 bits (108),  Expect = 1e-08, Method: Compositional matrix adjust.
+ Identities = 21/22 (95%), Positives = 21/22 (95%), Gaps = 0/22 (0%)
+
+Query  3   AEEWYFGKITRRESERLLLNAE  24
+           AEEWYFGKITRRESERLLLN E
+Sbjct  2   AEEWYFGKITRRESERLLLNPE  23
+
+
+>1BKL_A SELF-ASSOCIATED APO SRC SH2 DOMAIN [Rous sarcoma virus]
+Length=113
+
+ Score = 44.3 bits (103),  Expect = 7e-08, Method: Composition-based stats.
+ Identities = 20/22 (91%), Positives = 20/22 (91%), Gaps = 0/22 (0%)
+
+Query  3   AEEWYFGKITRRESERLLLNAE  24
+           AEEWYFGKITRRESE LLLN E
+Sbjct  3   AEEWYFGKITRRESESLLLNPE  24
+
+
+>1BKM_A COCRYSTAL STRUCTURE OF D-AMINO ACID SUBSTITUTED PHOSPHOPEPTIDE 
+COMPLEX [Rous sarcoma virus]
+Length=113
+
+ Score = 43.9 bits (102),  Expect = 9e-08, Method: Composition-based stats.
+ Identities = 20/22 (91%), Positives = 20/22 (91%), Gaps = 0/22 (0%)
+
+Query  3   AEEWYFGKITRRESERLLLNAE  24
+           AEEWYFGKITRRESE LLLN E
+Sbjct  3   AEEWYFGKITRRESEALLLNPE  24
+
+
+>5MTJ_A Yes1-SH2 in complex with monobody Mb(Yes_1) [Mus musculus]
+Length=116
+
+ Score = 41.6 bits (96),  Expect = 1e-06, Method: Composition-based stats.
+ Identities = 17/22 (77%), Positives = 21/22 (95%), Gaps = 0/22 (0%)
+
+Query  1   IQAEEWYFGKITRRESERLLLN  22
+           IQAEEWYFGK+ R+++ERLLLN
+Sbjct  7   IQAEEWYFGKMGRKDAERLLLN  28
+
+
+>1AOT_F NMR STRUCTURE OF THE FYN SH2 DOMAIN COMPLEXED WITH A PHOSPHOTYROSYL 
+PEPTIDE, MINIMIZED AVERAGE STRUCTURE
+ 1AOU_F NMR STRUCTURE OF THE FYN SH2 DOMAIN COMPLEXED WITH A PHOSPHOTYROSYL 
+PEPTIDE, 22 STRUCTURES
+Length=106
+
+ Score = 37.0 bits (84),  Expect = 4e-05, Method: Compositional matrix adjust.
+ Identities = 15/22 (68%), Positives = 20/22 (91%), Gaps = 0/22 (0%)
+
+Query  1   IQAEEWYFGKITRRESERLLLN  22
+           IQAEEWYFGK+ R+++ER LL+
+Sbjct  2   IQAEEWYFGKLGRKDAERQLLS  23
+
+
+>1G83_A Crystal Structure Of Fyn Sh3-Sh2 [Homo sapiens]
+ 1G83_B Crystal Structure Of Fyn Sh3-Sh2 [Homo sapiens]
+Length=165
+
+ Score = 37.0 bits (84),  Expect = 8e-05, Method: Compositional matrix adjust.
+ Identities = 15/22 (68%), Positives = 20/22 (91%), Gaps = 0/22 (0%)
+
+Query  1   IQAEEWYFGKITRRESERLLLN  22
+           IQAEEWYFGK+ R+++ER LL+
+Sbjct  63  IQAEEWYFGKLGRKDAERQLLS  84
+
+
+>3UF4_A Crystal structure of a SH3 and SH2 domains of FYN protein (Proto-concogene 
+Tyrosine-protein kinase Fyn) from Mus musculus 
+at 1.98 A resolution [Mus musculus]
+Length=164
+
+ Score = 37.0 bits (84),  Expect = 8e-05, Method: Compositional matrix adjust.
+ Identities = 15/22 (68%), Positives = 20/22 (91%), Gaps = 0/22 (0%)
+
+Query  1   IQAEEWYFGKITRRESERLLLN  22
+           IQAEEWYFGK+ R+++ER LL+
+Sbjct  64  IQAEEWYFGKLGRKDAERQLLS  85
+
+
+>2YT6_A Solution structure of the SH3_1 domain of Yamaguchi sarcoma viral 
+(v-yes) oncogene homolog 1 [Mus musculus]
+Length=109
+
+ Score = 32.0 bits (71),  Expect = 0.003, Method: Compositional matrix adjust.
+ Identities = 12/17 (71%), Positives = 16/17 (94%), Gaps = 0/17 (0%)
+
+Query  1    IQAEEWYFGKITRRESE  17
+            IQAEEWYFGK+ R+++E
+Sbjct  87   IQAEEWYFGKMGRKDAE  103
+
+
+>4TZI_A Structure of unliganded Lyn SH2 domain [Mus musculus]
+ 4TZI_B Structure of unliganded Lyn SH2 domain [Mus musculus]
+Length=115
+
+ Score = 31.2 bits (69),  Expect = 0.009, Method: Composition-based stats.
+ Identities = 11/21 (52%), Positives = 17/21 (81%), Gaps = 0/21 (0%)
+
+Query  1   IQAEEWYFGKITRRESERLLL  21
+           ++ EEW+F  ITR+++ER LL
+Sbjct  10  LETEEWFFKDITRKDAERQLL  30
+
+
+>2DLY_A Solution structure of the SH2 domain of murine Fyn-related kinase 
+[Mus musculus]
+Length=121
+
+ Score = 30.4 bits (67),  Expect = 0.018, Method: Compositional matrix adjust.
+ Identities = 12/24 (50%), Positives = 18/24 (75%), Gaps = 0/24 (0%)
+
+Query  1   IQAEEWYFGKITRRESERLLLNAE  24
+           +QAE W+FG I R ++E+ LL +E
+Sbjct  13  LQAEPWFFGAIKRADAEKQLLYSE  36
+
+
+>4U1P_A Human Fyn-SH2 domain in complex with a synthetic high-affinity 
+phospho-peptide [Homo sapiens]
+Length=122
+
+ Score = 30.0 bits (66),  Expect = 0.021, Method: Composition-based stats.
+ Identities = 11/18 (61%), Positives = 16/18 (89%), Gaps = 0/18 (0%)
+
+Query  5   EWYFGKITRRESERLLLN  22
+           EWYFGK+ R+++ER LL+
+Sbjct  22  EWYFGKLGRKDAERQLLS  39
+
+
+>2MRJ_A Structure of Fyn protein SH2 bound [Homo sapiens]
+Length=112
+
+ Score = 30.0 bits (66),  Expect = 0.023, Method: Composition-based stats.
+ Identities = 11/18 (61%), Positives = 16/18 (89%), Gaps = 0/18 (0%)
+
+Query  5   EWYFGKITRRESERLLLN  22
+           EWYFGK+ R+++ER LL+
+Sbjct  12  EWYFGKLGRKDAERQLLS  29
+
+
+>4U17_A Swapped dimer of the human Fyn-SH2 domain [Homo sapiens]
+ 4U17_B Swapped dimer of the human Fyn-SH2 domain [Homo sapiens]
+ 4U17_C Swapped dimer of the human Fyn-SH2 domain [Homo sapiens]
+Length=105
+
+ Score = 29.6 bits (65),  Expect = 0.029, Method: Composition-based stats.
+ Identities = 11/18 (61%), Positives = 16/18 (89%), Gaps = 0/18 (0%)
+
+Query  5   EWYFGKITRRESERLLLN  22
+           EWYFGK+ R+++ER LL+
+Sbjct  5   EWYFGKLGRKDAERQLLS  22
+
+
+>2MQI_A human Fyn SH2 free state [Homo sapiens]
+Length=111
+
+ Score = 29.3 bits (64),  Expect = 0.036, Method: Composition-based stats.
+ Identities = 11/18 (61%), Positives = 16/18 (89%), Gaps = 0/18 (0%)
+
+Query  5   EWYFGKITRRESERLLLN  22
+           EWYFGK+ R+++ER LL+
+Sbjct  11  EWYFGKLGRKDAERQLLS  28
+
+
+>3HCK_A NMR ensemble of the uncomplexed human HCK SH2 domain, 20 structures 
+[Homo sapiens]
+Length=107
+
+ Score = 29.3 bits (64),  Expect = 0.039, Method: Composition-based stats.
+ Identities = 10/21 (48%), Positives = 17/21 (81%), Gaps = 0/21 (0%)
+
+Query  1   IQAEEWYFGKITRRESERLLL  21
+           ++ EEW+F  I+R+++ER LL
+Sbjct  1   METEEWFFKGISRKDAERQLL  21
+
+
+>1MIL_A Transforming Protein [Homo sapiens]
+Length=104
+
+ Score = 28.5 bits (62),  Expect = 0.081, Method: Composition-based stats.
+ Identities = 10/20 (50%), Positives = 16/20 (80%), Gaps = 0/20 (0%)
+
+Query  1   IQAEEWYFGKITRRESERLL  20
+           ++ E W+ GK++RRE+E LL
+Sbjct  4   LRGEPWFHGKLSRREAEALL  23
+
+
+>2RSY_A Solution structure of the SH2 domain of Csk in complex with a 
+phosphopeptide from Cbp [Rattus norvegicus]
+Length=99
+
+ Score = 28.1 bits (61),  Expect = 0.10, Method: Composition-based stats.
+ Identities = 11/19 (58%), Positives = 14/19 (74%), Gaps = 0/19 (0%)
+
+Query  6   WYFGKITRRESERLLLNAE  24
+           W+ GKITR ++ERLL   E
+Sbjct  8   WFHGKITREQAERLLYPPE  26
+
+
+>3EAC_A Crystal structure of SH2 domain of Human Csk (carboxyl-terminal 
+src kinase), Oxidized form. [Homo sapiens]
+Length=106
+
+ Score = 28.1 bits (61),  Expect = 0.11, Method: Composition-based stats.
+ Identities = 11/19 (58%), Positives = 14/19 (74%), Gaps = 0/19 (0%)
+
+Query  6   WYFGKITRRESERLLLNAE  24
+           W+ GKITR ++ERLL   E
+Sbjct  10  WFHGKITREQAERLLYPPE  28
+
+
+>1AD5_A SRC FAMILY KINASE HCK-AMP-PNP COMPLEX [Homo sapiens]
+ 1AD5_B SRC FAMILY KINASE HCK-AMP-PNP COMPLEX [Homo sapiens]
+ 2HCK_A SRC FAMILY KINASE HCK-QUERCETIN COMPLEX [Homo sapiens]
+ 2HCK_B SRC FAMILY KINASE HCK-QUERCETIN COMPLEX [Homo sapiens]
+Length=438
+
+ Score = 28.1 bits (61),  Expect = 0.12, Method: Composition-based stats.
+ Identities = 10/21 (48%), Positives = 17/21 (81%), Gaps = 0/21 (0%)
+
+Query  1   IQAEEWYFGKITRRESERLLL  21
+           ++ EEW+F  I+R+++ER LL
+Sbjct  61  LETEEWFFKGISRKDAERQLL  81
+
+
+>3EAZ_A Crystal structure of SH2 domain of Human Csk (carboxyl-terminal 
+src kinase), C122S mutant. [Homo sapiens]
+Length=106
+
+ Score = 27.7 bits (60),  Expect = 0.12, Method: Composition-based stats.
+ Identities = 11/19 (58%), Positives = 14/19 (74%), Gaps = 0/19 (0%)
+
+Query  6   WYFGKITRRESERLLLNAE  24
+           W+ GKITR ++ERLL   E
+Sbjct  10  WFHGKITREQAERLLYPPE  28
+
+
+>1TCE_A SOLUTION NMR STRUCTURE OF THE SHC SH2 DOMAIN COMPLEXED WITH A 
+TYROSINE-PHOSPHORYLATED PEPTIDE FROM THE T-CELL RECEPTOR, MINIMIZED 
+AVERAGE STRUCTURE [Homo sapiens]
+Length=107
+
+ Score = 27.7 bits (60),  Expect = 0.14, Method: Composition-based stats.
+ Identities = 10/20 (50%), Positives = 16/20 (80%), Gaps = 0/20 (0%)
+
+Query  1   IQAEEWYFGKITRRESERLL  20
+           ++ E W+ GK++RRE+E LL
+Sbjct  4   LRGEPWFHGKLSRREAEALL  23
+
+
+>1K9A_A Crystal structure analysis of full-length carboxyl-terminal Src 
+kinase at 2.5 A resolution [Rattus norvegicus]
+ 1K9A_B Crystal structure analysis of full-length carboxyl-terminal Src 
+kinase at 2.5 A resolution [Rattus norvegicus]
+ 1K9A_C Crystal structure analysis of full-length carboxyl-terminal Src 
+kinase at 2.5 A resolution [Rattus norvegicus]
+ 1K9A_D Crystal structure analysis of full-length carboxyl-terminal Src 
+kinase at 2.5 A resolution [Rattus norvegicus]
+ 1K9A_E Crystal structure analysis of full-length carboxyl-terminal Src 
+kinase at 2.5 A resolution [Rattus norvegicus]
+ 1K9A_F Crystal structure analysis of full-length carboxyl-terminal Src 
+kinase at 2.5 A resolution [Rattus norvegicus]
+Length=450
+
+ Score = 28.1 bits (61),  Expect = 0.14, Method: Composition-based stats.
+ Identities = 11/19 (58%), Positives = 14/19 (74%), Gaps = 0/19 (0%)
+
+Query  6   WYFGKITRRESERLLLNAE  24
+           W+ GKITR ++ERLL   E
+Sbjct  82  WFHGKITREQAERLLYPPE  100
+
+
+>2MRK_A Fyn SH2 domain in complex with the natural inhibitory phosphotyrosine 
+peptide [Homo sapiens]
+Length=100
+
+ Score = 27.7 bits (60),  Expect = 0.14, Method: Composition-based stats.
+ Identities = 10/17 (59%), Positives = 15/17 (88%), Gaps = 0/17 (0%)
+
+Query  6   WYFGKITRRESERLLLN  22
+           WYFGK+ R+++ER LL+
+Sbjct  1   WYFGKLGRKDAERQLLS  17
+
+
+>4U5W_B Crystal Structure of HIV-1 Nef-SF2 Core Domain in Complex with 
+the Src Family Kinase Hck SH3-SH2 Tandem Regulatory Domains 
+[Homo sapiens]
+ 4U5W_D Crystal Structure of HIV-1 Nef-SF2 Core Domain in Complex with 
+the Src Family Kinase Hck SH3-SH2 Tandem Regulatory Domains 
+[Homo sapiens]
+Length=180
+
+ Score = 27.7 bits (60),  Expect = 0.15, Method: Composition-based stats.
+ Identities = 10/21 (48%), Positives = 17/21 (81%), Gaps = 0/21 (0%)
+
+Query  1   IQAEEWYFGKITRRESERLLL  21
+           ++ EEW+F  I+R+++ER LL
+Sbjct  69  LETEEWFFKGISRKDAERQLL  89
+
+
+>1BLJ_A NMR ENSEMBLE OF BLK SH2 DOMAIN, 20 STRUCTURES [Mus musculus]
+ 1BLK_A NMR ENSEMBLE OF BLK SH2 DOMAIN USING CHEMICAL SHIFT REFINEMENT, 
+20 STRUCTURES [Mus musculus]
+Length=114
+
+ Score = 27.7 bits (60),  Expect = 0.17, Method: Composition-based stats.
+ Identities = 9/21 (43%), Positives = 17/21 (81%), Gaps = 0/21 (0%)
+
+Query  1   IQAEEWYFGKITRRESERLLL  21
+           ++ E+W+F  I+R+++ER LL
+Sbjct  9   LEVEKWFFRTISRKDAERQLL  29
+
+
+>1QCF_A Crystal Structure Of Hck In Complex With A Src Family-selective 
+Tyrosine Kinase Inhibitor [Homo sapiens]
+ 2C0I_A Src family kinase Hck with bound inhibitor A-420983 [Homo sapiens]
+ 2C0I_B Src family kinase Hck with bound inhibitor A-420983 [Homo sapiens]
+ 2C0O_A Src family kinase Hck with bound inhibitor A-770041 [Homo sapiens]
+ 2C0O_B Src family kinase Hck with bound inhibitor A-770041 [Homo sapiens]
+ 2C0T_A Src family kinase Hck with bound inhibitor A-641359 [Homo sapiens]
+ 2C0T_B Src family kinase Hck with bound inhibitor A-641359 [Homo sapiens]
+ 3VRY_A Crystal structure of HCK complexed with a pyrrolo-pyrimidine 
+inhibitor 4-Amino-5-(4-phenoxyphenyl)-7H-pyrrolo[2,3-d]pyrimidin-7-yl-cyclopentane 
+[Homo sapiens]
+ 3VRY_B Crystal structure of HCK complexed with a pyrrolo-pyrimidine 
+inhibitor 4-Amino-5-(4-phenoxyphenyl)-7H-pyrrolo[2,3-d]pyrimidin-7-yl-cyclopentane 
+[Homo sapiens]
+ 3VRZ_A Crystal structure of HCK complexed with a pyrrolo-pyrimidine 
+inhibitor 1-[4-(4-amino-7-cyclopentyl-7H-pyrrolo[2,3-d]pyrimidin-5-yl)phenyl]-3-benzylurea 
+[Homo sapiens]
+ 3VRZ_B Crystal structure of HCK complexed with a pyrrolo-pyrimidine 
+inhibitor 1-[4-(4-amino-7-cyclopentyl-7H-pyrrolo[2,3-d]pyrimidin-5-yl)phenyl]-3-benzylurea 
+[Homo sapiens]
+ 3VS0_A Crystal structure of HCK complexed with a pyrrolo-pyrimidine 
+inhibitor N-[4-(4-amino-7-cyclopentyl-7H-pyrrolo[2,3-d]pyrimidin-5-yl)phenyl]benzamide 
+[Homo sapiens]
+ 3VS0_B Crystal structure of HCK complexed with a pyrrolo-pyrimidine 
+inhibitor N-[4-(4-amino-7-cyclopentyl-7H-pyrrolo[2,3-d]pyrimidin-5-yl)phenyl]benzamide 
+[Homo sapiens]
+ 3VS1_A Crystal structure of HCK complexed with a pyrrolo-pyrimidine 
+inhibitor 1-[4-(4-amino-7-cyclopentyl-7H-pyrrolo[2,3-d]pyrimidin-5-yl)phenyl]-3-phenylurea 
+[Homo sapiens]
+ 3VS1_B Crystal structure of HCK complexed with a pyrrolo-pyrimidine 
+inhibitor 1-[4-(4-amino-7-cyclopentyl-7H-pyrrolo[2,3-d]pyrimidin-5-yl)phenyl]-3-phenylurea 
+[Homo sapiens]
+ 3VS2_A Crystal structure of HCK complexed with a pyrrolo-pyrimidine 
+inhibitor 7-[cis-4-(4-methylpiperazin-1-yl)cyclohexyl]-5-(4-phenoxyphenyl)-7H-pyrrolo[2,3-d]pyrimidin-4-amine 
+[Homo sapiens]
+ 3VS2_B Crystal structure of HCK complexed with a pyrrolo-pyrimidine 
+inhibitor 7-[cis-4-(4-methylpiperazin-1-yl)cyclohexyl]-5-(4-phenoxyphenyl)-7H-pyrrolo[2,3-d]pyrimidin-4-amine 
+[Homo sapiens]
+ 3VS3_A Crystal structure of HCK complexed with a pyrrolo-pyrimidine 
+inhibitor 7-[trans-4-(4-methylpiperazin-1-yl)cyclohexyl]-5-(4-phenoxyphenyl)-7H-pyrrolo[2,3-d]pyrimidin-4-amine 
+[Homo sapiens]
+ 3VS3_B Crystal structure of HCK complexed with a pyrrolo-pyrimidine 
+inhibitor 7-[trans-4-(4-methylpiperazin-1-yl)cyclohexyl]-5-(4-phenoxyphenyl)-7H-pyrrolo[2,3-d]pyrimidin-4-amine 
+[Homo sapiens]
+ 3VS4_A Crystal structure of HCK complexed with a pyrrolo-pyrimidine 
+inhibitor 5-(4-phenoxyphenyl)-7-(tetrahydro-2H-pyran-4-yl)-7H-pyrrolo[2,3-d]pyrimidin-4-amine 
+[Homo sapiens]
+ 3VS4_B Crystal structure of HCK complexed with a pyrrolo-pyrimidine 
+inhibitor 5-(4-phenoxyphenyl)-7-(tetrahydro-2H-pyran-4-yl)-7H-pyrrolo[2,3-d]pyrimidin-4-amine 
+[Homo sapiens]
+ 3VS5_A Crystal structure of HCK complexed with a pyrrolo-pyrimidine 
+inhibitor 7-(1-methylpiperidin-4-yl)-5-(4-phenoxyphenyl)-7H-pyrrolo[2,3-d]pyrimidin-4-amine 
+[Homo sapiens]
+ 3VS5_B Crystal structure of HCK complexed with a pyrrolo-pyrimidine 
+inhibitor 7-(1-methylpiperidin-4-yl)-5-(4-phenoxyphenyl)-7H-pyrrolo[2,3-d]pyrimidin-4-amine 
+[Homo sapiens]
+ 3VS6_A Crystal structure of HCK complexed with a pyrazolo-pyrimidine 
+inhibitor tert-butyl {4-[4-amino-1-(propan-2-yl)-1H-pyrazolo[3,4-d]pyrimidin-3-yl]-2-methoxyphenyl}carbamate 
+[Homo sapiens]
+ 3VS6_B Crystal structure of HCK complexed with a pyrazolo-pyrimidine 
+inhibitor tert-butyl {4-[4-amino-1-(propan-2-yl)-1H-pyrazolo[3,4-d]pyrimidin-3-yl]-2-methoxyphenyl}carbamate 
+[Homo sapiens]
+ 3VS7_A Crystal structure of HCK complexed with a pyrazolo-pyrimidine 
+inhibitor 1-cyclopentyl-3-(1H-pyrrolo[2,3-b]pyridin-5-yl)-1H-pyrazolo[3,4-d]pyrimidin-4-amine 
+[Homo sapiens]
+ 3VS7_B Crystal structure of HCK complexed with a pyrazolo-pyrimidine 
+inhibitor 1-cyclopentyl-3-(1H-pyrrolo[2,3-b]pyridin-5-yl)-1H-pyrazolo[3,4-d]pyrimidin-4-amine 
+[Homo sapiens]
+ 4LUD_A Crystal Structure of HCK in complex with the fluorescent compound 
+SKF86002 [Homo sapiens]
+ 4LUD_B Crystal Structure of HCK in complex with the fluorescent compound 
+SKF86002 [Homo sapiens]
+ 4LUE_A Crystal Structure of HCK in complex with 7-[trans-4-(4-methylpiperazin-1-yl)cyclohexyl]-5-(4-phenoxyphenyl)-7H-pyrrolo[2,3-d]pyrimidin-4-amine 
+(resulting from displacement of SKF86002) 
+[Homo sapiens]
+ 4LUE_B Crystal Structure of HCK in complex with 7-[trans-4-(4-methylpiperazin-1-yl)cyclohexyl]-5-(4-phenoxyphenyl)-7H-pyrrolo[2,3-d]pyrimidin-4-amine 
+(resulting from displacement of SKF86002) 
+[Homo sapiens]
+ 5H09_A Crystal structure of HCK complexed with a pyrrolo-pyrimidine 
+inhibitor (S)-ethyl2-(((1r,4S)-4-(4-amino-5-(4-phenoxyphenyl)-7H-pyrrolo[2,3-d]pyrimidin-7-yl)cyclohexyl)amino)-4-methylpentanoate 
+[Homo sapiens]
+ 5H0B_A Crystal structure of HCK complexed with a pyrrolo-pyrimidine 
+inhibitor (S)-2-(((1r,4S)-4-(4-amino-5-(4-phenoxyphenyl)-7H-pyrrolo[2,3-d]pyrimidin-7-yl)cyclohexyl)amino)-4-methylpentanoic 
+acid [Homo sapiens]
+ 5H0E_A Crystal structure of HCK complexed with a pyrrolo-pyrimidine 
+inhibitor (S)-2-(((1r,4S)-4-(4-amino-5-(4-phenoxyphenyl)-7H-pyrrolo[2,3-d]pyrimidin-7-yl)cyclohexyl)amino)-4-methylpentanamide 
+[Homo sapiens]
+ 5H0G_A Crystal structure of HCK complexed with a pyrrolo-pyrimidine 
+inhibitor (S)-2-(((1r,4S)-4-(4-amino-5-(4-phenoxyphenyl)-7H-pyrrolo[2,3-d]pyrimidin-7-yl)cyclohexyl)amino)-N,4-dimethylpentanamide 
+[Homo sapiens]
+ 5H0H_A Crystal structure of HCK complexed with a pyrrolo-pyrimidine 
+inhibitor (S)-2-(((1r,4S)-4-(4-amino-5-(4-phenoxyphenyl)-7H-pyrrolo[2,3-d]pyrimidin-7-yl)cyclohexyl)amino)-N,N,4-trimethylpentanamide 
+[Homo sapiens]
+Length=454
+
+ Score = 27.7 bits (60),  Expect = 0.18, Method: Compositional matrix adjust.
+ Identities = 10/21 (48%), Positives = 17/21 (81%), Gaps = 0/21 (0%)
+
+Query  1   IQAEEWYFGKITRRESERLLL  21
+           ++ EEW+F  I+R+++ER LL
+Sbjct  67  LETEEWFFKGISRKDAERQLL  87
+
+
+>3NHN_A Crystal structure of the SRC-family kinase HCK SH3-SH2-linker 
+regulatory region [Homo sapiens]
+Length=193
+
+ Score = 27.3 bits (59),  Expect = 0.24, Method: Composition-based stats.
+ Identities = 10/21 (48%), Positives = 17/21 (81%), Gaps = 0/21 (0%)
+
+Query  1   IQAEEWYFGKITRRESERLLL  21
+           ++ EEW+F  I+R+++ER LL
+Sbjct  68  LETEEWFFKGISRKDAERQLL  88
+
+
+>1LCJ_A Sh2 (Src Homology-2) Domain Of Human P56-Lck Tyrosine Kinase 
+Complexed With The 11 Residue Phosphotyrosyl Peptide Epqpyeeipiyl 
+[Homo sapiens]
+Length=109
+
+ Score = 26.2 bits (56),  Expect = 0.64, Method: Composition-based stats.
+ Identities = 8/21 (38%), Positives = 16/21 (76%), Gaps = 0/21 (0%)
+
+Query  1   IQAEEWYFGKITRRESERLLL  21
+           ++ E W+F  ++R+++ER LL
+Sbjct  5   LEPEPWFFKNLSRKDAERQLL  25
+
+
+>1BHF_A P56lck Sh2 Domain Inhibitor Complex [Homo sapiens]
+ 1BHH_A Free P56lck Sh2 Domain [Homo sapiens]
+Length=108
+
+ Score = 25.8 bits (55),  Expect = 0.68, Method: Composition-based stats.
+ Identities = 8/21 (38%), Positives = 16/21 (76%), Gaps = 0/21 (0%)
+
+Query  1   IQAEEWYFGKITRRESERLLL  21
+           ++ E W+F  ++R+++ER LL
+Sbjct  4   LEPEPWFFKNLSRKDAERQLL  24
+
+
+>1LKK_A HUMAN P56-LCK TYROSINE KINASE SH2 DOMAIN IN COMPLEX WITH THE 
+PHOSPHOTYROSYL PEPTIDE AC-PTYR-GLU-GLU-ILE (PYEEI PEPTIDE) [Homo 
+sapiens]
+Length=105
+
+ Score = 25.8 bits (55),  Expect = 0.68, Method: Composition-based stats.
+ Identities = 8/21 (38%), Positives = 16/21 (76%), Gaps = 0/21 (0%)
+
+Query  1   IQAEEWYFGKITRRESERLLL  21
+           ++ E W+F  ++R+++ER LL
+Sbjct  1   LEPEPWFFKNLSRKDAERQLL  21
+
+
+>5MTM_A Monobody Mb(Lck_3) bound to Lck-SH2 domain [Homo sapiens]
+ 5MTN_A Monobody Mb(Lck_1) bound to Lck-Sh2 [Homo sapiens]
+Length=116
+
+ Score = 25.8 bits (55),  Expect = 0.71, Method: Composition-based stats.
+ Identities = 8/21 (38%), Positives = 16/21 (76%), Gaps = 0/21 (0%)
+
+Query  1   IQAEEWYFGKITRRESERLLL  21
+           ++ E W+F  ++R+++ER LL
+Sbjct  7   LEPEPWFFKNLSRKDAERQLL  27
+
+
+>1NRV_A Crystal structure of the SH2 domain of Grb10 [Homo sapiens]
+ 1NRV_B Crystal structure of the SH2 domain of Grb10 [Homo sapiens]
+Length=105
+
+ Score = 25.8 bits (55),  Expect = 0.73, Method: Composition-based stats.
+ Identities = 7/19 (37%), Positives = 14/19 (74%), Gaps = 0/19 (0%)
+
+Query  2   QAEEWYFGKITRRESERLL  20
+           + + W+ G+I+R ES R++
+Sbjct  3   RTQHWFHGRISREESHRII  21
+
+
+  Database: PDB protein database
+    Posted date:  Sep 15, 2021  4:59 AM
+  Number of letters in database: 35,089,827
+  Number of sequences in database:  131,673
+
+Lambda      K        H
+   0.317    0.133    0.387 
+Gapped
+Lambda      K        H
+   0.267   0.0410    0.140 
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Number of Sequences: 131673
+Number of Hits to DB: 711040
+Number of extensions: 6995
+Number of successful extensions: 343
+Number of sequences better than 100: 212
+Number of HSP's better than 100 without gapping: 0
+Number of HSP's gapped: 343
+Number of HSP's successfully gapped: 232
+Length of query: 24
+Length of database: 35089827
+Length adjustment: 0
+Effective length of query: 24
+Effective length of database: 35089827
+Effective search space: 842155848
+Effective search space used: 842155848
+T: 11
+A: 40
+X1: 16 (7.3 bits)
+X2: 38 (14.6 bits)
+X3: 64 (24.7 bits)
+S1: 33 (17.3 bits)
+S2: 48 (23.1 bits)
+ka-blk-alpha gapped: 1.9
+ka-blk-alpha ungapped: 0.7916
+ka-blk-alpha_v gapped: 42.6028
+ka-blk-alpha_v ungapped: 4.96466
+ka-blk-sigma gapped: 43.6362
+
+
+

@@ -1,0 +1,162 @@
+<p><!--
+QBlastInfoBegin
+	Status=READY
+QBlastInfoEnd
+--><p>
+<PRE>
+BLASTP 2.12.0+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro
+A. Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and
+David J. Lipman (1997), "Gapped BLAST and PSI-BLAST: a new
+generation of protein database search programs", Nucleic
+Acids Res. 25:3389-3402.
+
+
+Reference for compositional score matrix adjustment: Stephen
+F. Altschul, John C. Wootton, E. Michael Gertz, Richa
+Agarwala, Aleksandr Morgulis, Alejandro A. Schaffer, and
+Yi-Kuo Yu (2005) "Protein database searches using
+compositionally adjusted substitution matrices", FEBS J.
+272:5101-5109.
+
+
+RID: MBJ3BEAP013
+
+
+Database: PDB protein database
+           131,673 sequences; 35,089,827 total letters
+Query= 
+Length=10
+
+
+                                                                   Score     E     Max
+Sequences producing significant alignments:                       (Bits)  Value  Ident
+
+3H32_A Crystal structure of D-dimer from human fibrin complexe...  25.8    0.37   100%        
+3GHG_A Crystal Structure of Human Fibrinogen [Homo sapiens]        23.9    1.7    100%        
+1BBR_F Chain F, FIBRINOGEN ALPHA/ALPHA-E CHAIN PRECURSOR [Homo...  22.7    1.8    100%        
+1YCP_F The Crystal Structure Of Fibrinogen-Aa Peptide 1-23 (F8...  21.9    3.9    90%         
+1DEQ_A The Crystal Structure Of Modified Bovine Fibrinogen (At...  22.7    4.6    90%         
+
+ALIGNMENTS
+>3H32_A Crystal structure of D-dimer from human fibrin complexed with 
+Gly-His-Arg-Pro-Tyr-amide [Homo sapiens]
+ 3H32_D Crystal structure of D-dimer from human fibrin complexed with 
+Gly-His-Arg-Pro-Tyr-amide [Homo sapiens]
+Length=197
+
+ Score = 25.8 bits (55),  Expect = 0.37, Method: Composition-based stats.
+ Identities = 10/10 (100%), Positives = 10/10 (100%), Gaps = 0/10 (0%)
+
+Query  1   DFLAEGGGVR  10
+           DFLAEGGGVR
+Sbjct  7   DFLAEGGGVR  16
+
+
+>3GHG_A Crystal Structure of Human Fibrinogen [Homo sapiens]
+ 3GHG_D Crystal Structure of Human Fibrinogen [Homo sapiens]
+ 3GHG_G Crystal Structure of Human Fibrinogen [Homo sapiens]
+ 3GHG_J Crystal Structure of Human Fibrinogen [Homo sapiens]
+Length=562
+
+ Score = 23.9 bits (50),  Expect = 1.7, Method: Composition-based stats.
+ Identities = 10/10 (100%), Positives = 10/10 (100%), Gaps = 0/10 (0%)
+
+Query  1   DFLAEGGGVR  10
+           DFLAEGGGVR
+Sbjct  7   DFLAEGGGVR  16
+
+
+>1BBR_F Chain F, FIBRINOGEN ALPHA/ALPHA-E CHAIN PRECURSOR [Homo sapiens]
+ 1BBR_G Chain G, FIBRINOGEN ALPHA/ALPHA-E CHAIN PRECURSOR [Homo sapiens]
+ 1BBR_I Chain I, FIBRINOGEN ALPHA/ALPHA-E CHAIN PRECURSOR [Homo sapiens]
+ 1DM4_C SER195ALA MUTANT OF HUMAN THROMBIN COMPLEXED WITH FIBRINOPEPTIDE 
+A (7-16) [synthetic construct]
+Length=11
+
+ Score = 22.7 bits (47),  Expect = 1.8, Method: Compositional matrix adjust.
+ Identities = 10/10 (100%), Positives = 10/10 (100%), Gaps = 0/10 (0%)
+
+Query  1   DFLAEGGGVR  10
+           DFLAEGGGVR
+Sbjct  2   DFLAEGGGVR  11
+
+
+>1YCP_F The Crystal Structure Of Fibrinogen-Aa Peptide 1-23 (F8y) Bound 
+To Bovine Thrombin Explains Why The Mutation Of Phe-8 To 
+Tyrosine Strongly Inhibits Normal Cleavage At Arginine-16 [synthetic 
+construct]
+ 1YCP_N The Crystal Structure Of Fibrinogen-Aa Peptide 1-23 (F8y) Bound 
+To Bovine Thrombin Explains Why The Mutation Of Phe-8 To 
+Tyrosine Strongly Inhibits Normal Cleavage At Arginine-16 [synthetic 
+construct]
+Length=23
+
+ Score = 21.9 bits (45),  Expect = 3.9, Method: Compositional matrix adjust.
+ Identities = 9/10 (90%), Positives = 10/10 (100%), Gaps = 0/10 (0%)
+
+Query  1   DFLAEGGGVR  10
+           D+LAEGGGVR
+Sbjct  7   DYLAEGGGVR  16
+
+
+>1DEQ_A The Crystal Structure Of Modified Bovine Fibrinogen (At ~4 Angstrom 
+Resolution) [Bos taurus]
+ 1DEQ_D The Crystal Structure Of Modified Bovine Fibrinogen (At ~4 Angstrom 
+Resolution) [Bos taurus]
+ 1DEQ_N The Crystal Structure Of Modified Bovine Fibrinogen (At ~4 Angstrom 
+Resolution) [Bos taurus]
+ 1DEQ_Q The Crystal Structure Of Modified Bovine Fibrinogen (At ~4 Angstrom 
+Resolution) [Bos taurus]
+Length=390
+
+ Score = 22.7 bits (47),  Expect = 4.6, Method: Composition-based stats.
+ Identities = 9/10 (90%), Positives = 9/10 (90%), Gaps = 0/10 (0%)
+
+Query  1   DFLAEGGGVR  10
+           DFL EGGGVR
+Sbjct  10  DFLTEGGGVR  19
+
+
+  Database: PDB protein database
+    Posted date:  Sep 15, 2021  4:59 AM
+  Number of letters in database: 35,089,827
+  Number of sequences in database:  131,673
+
+Lambda      K        H
+   0.321    0.154    0.463 
+Gapped
+Lambda      K        H
+   0.267   0.0410    0.140 
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Number of Sequences: 131673
+Number of Hits to DB: 366486
+Number of extensions: 1157
+Number of successful extensions: 134
+Number of sequences better than 100: 25
+Number of HSP's better than 100 without gapping: 0
+Number of HSP's gapped: 134
+Number of HSP's successfully gapped: 25
+Length of query: 10
+Length of database: 35089827
+Length adjustment: 0
+Effective length of query: 10
+Effective length of database: 35089827
+Effective search space: 350898270
+Effective search space used: 350898270
+T: 11
+A: 40
+X1: 16 (7.4 bits)
+X2: 38 (14.6 bits)
+X3: 64 (24.7 bits)
+S1: 29 (15.8 bits)
+S2: 45 (21.9 bits)
+ka-blk-alpha gapped: 1.9
+ka-blk-alpha ungapped: 0.7916
+ka-blk-alpha_v gapped: 42.6028
+ka-blk-alpha_v ungapped: 4.96466
+ka-blk-sigma gapped: 43.6362
+
+
+

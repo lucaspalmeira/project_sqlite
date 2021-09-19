@@ -1,0 +1,184 @@
+<p><!--
+QBlastInfoBegin
+	Status=READY
+QBlastInfoEnd
+--><p>
+<PRE>
+BLASTP 2.12.0+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro
+A. Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and
+David J. Lipman (1997), "Gapped BLAST and PSI-BLAST: a new
+generation of protein database search programs", Nucleic
+Acids Res. 25:3389-3402.
+
+
+Reference for compositional score matrix adjustment: Stephen
+F. Altschul, John C. Wootton, E. Michael Gertz, Richa
+Agarwala, Aleksandr Morgulis, Alejandro A. Schaffer, and
+Yi-Kuo Yu (2005) "Protein database searches using
+compositionally adjusted substitution matrices", FEBS J.
+272:5101-5109.
+
+
+RID: MAK6P94H01R
+
+
+Database: PDB protein database
+           131,673 sequences; 35,089,827 total letters
+Query= 
+Length=10
+
+
+                                                                   Score     E     Max
+Sequences producing significant alignments:                       (Bits)  Value  Ident
+
+3J70_D Model of gp120, including variable regions, in complex ...  26.2    0.22   100%        
+1B03_A SOLUTION STRUCTURE OF THE ANTIBODY-BOUND HIV-1IIIB V3 P...  23.5    0.87   100%        
+1U6U_A NMR structure of a V3 (IIIB isolate) peptide bound to 4...  23.5    0.88   100%        
+1QNZ_P NMR structure of the 0.5b anti-HIV antibody complex wit...  23.5    0.91   100%        
+6RYF_G High-resolution crystal structure of ERAP1 in complex w...  23.5    1.00   100%        
+1BII_P The Crystal Structure Of H-2dd Mhc Class I In Complex W...  23.5    1.1    100%        
+
+ALIGNMENTS
+>3J70_D Model of gp120, including variable regions, in complex with CD4 
+and 17b [Human immunodeficiency virus 1]
+ 3J70_P Model of gp120, including variable regions, in complex with CD4 
+and 17b [Human immunodeficiency virus 1]
+ 3J70_U Model of gp120, including variable regions, in complex with CD4 
+and 17b [Human immunodeficiency virus 1]
+Length=470
+
+ Score = 26.2 bits (56),  Expect = 0.22, Method: Composition-based stats.
+ Identities = 10/10 (100%), Positives = 10/10 (100%), Gaps = 0/10 (0%)
+
+Query  1    RGPGRAFVTI  10
+            RGPGRAFVTI
+Sbjct  281  RGPGRAFVTI  290
+
+
+>1B03_A SOLUTION STRUCTURE OF THE ANTIBODY-BOUND HIV-1IIIB V3 PEPTIDE 
+[synthetic construct]
+Length=18
+
+ Score = 23.5 bits (49),  Expect = 0.87, Method: Compositional matrix adjust.
+ Identities = 10/10 (100%), Positives = 10/10 (100%), Gaps = 0/10 (0%)
+
+Query  1   RGPGRAFVTI  10
+           RGPGRAFVTI
+Sbjct  8   RGPGRAFVTI  17
+
+
+>1U6U_A NMR structure of a V3 (IIIB isolate) peptide bound to 447-52D, 
+a human HIV-1 neutralizing antibody [Human immunodeficiency 
+virus 1]
+ 1U6V_A NMR structure of a V3 (IIIB isolate) peptide bound to 447-52D, 
+a human HIV-1 neutralizing antibody [Human immunodeficiency 
+virus 1]
+Length=17
+
+ Score = 23.5 bits (49),  Expect = 0.88, Method: Compositional matrix adjust.
+ Identities = 10/10 (100%), Positives = 10/10 (100%), Gaps = 0/10 (0%)
+
+Query  1   RGPGRAFVTI  10
+           RGPGRAFVTI
+Sbjct  7   RGPGRAFVTI  16
+
+
+>1QNZ_P NMR structure of the 0.5b anti-HIV antibody complex with the 
+gp120 V3 peptide [Human immunodeficiency virus 1]
+Length=18
+
+ Score = 23.5 bits (49),  Expect = 0.91, Method: Compositional matrix adjust.
+ Identities = 10/10 (100%), Positives = 10/10 (100%), Gaps = 0/10 (0%)
+
+Query  1   RGPGRAFVTI  10
+           RGPGRAFVTI
+Sbjct  8   RGPGRAFVTI  17
+
+
+>6RYF_G High-resolution crystal structure of ERAP1 in complex with 15mer 
+phosphinic peptide [Human immunodeficiency virus 1]
+Length=14
+
+ Score = 23.5 bits (49),  Expect = 1.00, Method: Compositional matrix adjust.
+ Identities = 10/10 (100%), Positives = 10/10 (100%), Gaps = 0/10 (0%)
+
+Query  1   RGPGRAFVTI  10
+           RGPGRAFVTI
+Sbjct  5   RGPGRAFVTI  14
+
+
+>1BII_P The Crystal Structure Of H-2dd Mhc Class I In Complex With The 
+Hiv-1 Derived Peptide P18-110
+ 1DDH_P Mhc Class I H-2dd Heavy Chain Complexed With Beta-2 Microglobulin 
+And An Immunodominant Peptide P18-I10 From The Human Immunodeficiency 
+Virus Envelope Glycoprotein 120
+ 1QO3_P Complex between NK cell receptor Ly49A and its MHC class I ligand 
+H-2Dd [Human immunodeficiency virus]
+ 3DMM_P Crystal structure of the CD8 alpha beta/H-2Dd complex [synthetic 
+construct]
+ 3ECB_P Crystal structure of mouse H-2Dd in complex with peptide P18-I10 
+derived from human immunodeficiency virus envelope glycoprotein 
+120 [synthetic construct]
+ 5IVX_P Crystal Structure of B4.2.3 T-Cell Receptor and H2-Dd P18-I10 
+Complex [Homo sapiens]
+ 6B9K_A Solution NMR Structure of Unbound P18-I10 [Human immunodeficiency 
+virus 1]
+ 6NPR_P Crystal structure of H-2Dd with C84-C139 disulfide in complex 
+with gp120 derived peptide P18-I10 [Human immunodeficiency 
+virus 1]
+ 6NPR_R Crystal structure of H-2Dd with C84-C139 disulfide in complex 
+with gp120 derived peptide P18-I10 [Human immunodeficiency 
+virus 1]
+Length=10
+
+ Score = 23.5 bits (49),  Expect = 1.1, Method: Compositional matrix adjust.
+ Identities = 10/10 (100%), Positives = 10/10 (100%), Gaps = 0/10 (0%)
+
+Query  1  RGPGRAFVTI  10
+          RGPGRAFVTI
+Sbjct  1  RGPGRAFVTI  10
+
+
+  Database: PDB protein database
+    Posted date:  Sep 11, 2021  5:10 AM
+  Number of letters in database: 35,089,827
+  Number of sequences in database:  131,673
+
+Lambda      K        H
+   0.332    0.153    0.486 
+Gapped
+Lambda      K        H
+   0.267   0.0410    0.140 
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Number of Sequences: 131673
+Number of Hits to DB: 351227
+Number of extensions: 1086
+Number of successful extensions: 124
+Number of sequences better than 100: 46
+Number of HSP's better than 100 without gapping: 0
+Number of HSP's gapped: 124
+Number of HSP's successfully gapped: 46
+Length of query: 10
+Length of database: 35089827
+Length adjustment: 0
+Effective length of query: 10
+Effective length of database: 35089827
+Effective search space: 350898270
+Effective search space used: 350898270
+T: 11
+A: 40
+X1: 15 (7.2 bits)
+X2: 38 (14.6 bits)
+X3: 64 (24.7 bits)
+S1: 29 (15.8 bits)
+S2: 45 (21.9 bits)
+ka-blk-alpha gapped: 1.9
+ka-blk-alpha ungapped: 0.7916
+ka-blk-alpha_v gapped: 42.6028
+ka-blk-alpha_v ungapped: 4.96466
+ka-blk-sigma gapped: 43.6362
+
+
+
