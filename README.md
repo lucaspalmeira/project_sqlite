@@ -18,18 +18,18 @@ A search for homologous peptides is performed using the Blastp algorithm and the
 Biopython installed (https://biopython.org/)
 
 ```bash
-$ pip3 install biopython
+pip3 install biopython
 ```
 
 Wget installed (https://pypi.org/project/wget/):
 
 ```bash
-$ pip3 install wget
+pip3 install wget
 ```
 Urllib installed (https://docs.python.org/pt-br/3/library/urllib.html)
 
 ```bash
-$ pip3 install urlib
+pip3 install urlib
 ```
 
 Sqlite3 installed (https://pypi.org/project/db-sqlite3/)
