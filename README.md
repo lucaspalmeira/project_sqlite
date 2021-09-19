@@ -35,7 +35,7 @@ pip3 install urlib
 Sqlite3 installed (https://pypi.org/project/db-sqlite3/)
 
 ```bash
-pip install db-sqlite3
+pip3 install db-sqlite3
 ```
 
 # Run
